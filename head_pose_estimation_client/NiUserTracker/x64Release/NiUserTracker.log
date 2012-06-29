@@ -1,0 +1,15 @@
+﻿  main.cpp
+  SceneDrawer.cpp
+  Config.cpp
+  MovieMng.cpp
+  ServerCom.cpp
+  SkelMng.cpp
+  Util.cpp
+ServerCom.obj : error LNK2001: 外部シンボル "__imp_send" は未解決です。
+ServerCom.obj : error LNK2001: 外部シンボル "__imp_closesocket" は未解決です。
+ServerCom.obj : error LNK2001: 外部シンボル "__imp_socket" は未解決です。
+ServerCom.obj : error LNK2001: 外部シンボル "__imp_htons" は未解決です。
+ServerCom.obj : error LNK2001: 外部シンボル "__imp_inet_addr" は未解決です。
+ServerCom.obj : error LNK2001: 外部シンボル "__imp_WSAStartup" は未解決です。
+ServerCom.obj : error LNK2001: 外部シンボル "__imp_connect" は未解決です。
+../Bin64/Release\NiUserTracker64.exe : fatal error LNK1120: 外部参照 7 が未解決です。
